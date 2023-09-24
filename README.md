@@ -12,5 +12,5 @@ $ cd frontend and npm run build
 $ make start
 ```
 ## Preview
-Click to go [Infinity]()
+Click to go [Infinity](https://test-task-picasso.onrender.com)
 
