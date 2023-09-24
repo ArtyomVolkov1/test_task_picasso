@@ -1,7 +1,7 @@
 {
   "name": "test_task_picasso",
   "version": "1.0.0",
-  "description": "Hello, Picasso",
+  "description": "Hello, Picasso!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
